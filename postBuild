@@ -1,0 +1,3 @@
+# Download data
+mkdir ./data
+wget https://s3.amazonaws.com/datashader-data/nyc_taxi_wide.parq -P ./data
